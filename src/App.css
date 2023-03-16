@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  margin: 0;
+}
+nav{
+  display: flex;
+  height: 70px;
+  flex-direction: row;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  transform: rotate(0.06deg);
+  justify-content:space-between;
+  padding: 5px 40px;
+  color: white;
+}
+.nav-logo{
+  height: 35px;
+  margin-top: 12px;
+  margin-right: 6px;
+}
+.nav-logo-title{
+  margin-right: auto;
+  margin-top: 15px;
+  font-size: 1.4rem;
+  font-weight: bolder;
+}
