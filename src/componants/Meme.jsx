@@ -30,3 +30,4 @@ export default function Meme() {
     </main>
   )
 }
+// for further explanation refer to w3school
